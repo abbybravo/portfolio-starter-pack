@@ -1,7 +1,5 @@
 # portfolio-starter-pack
 
-# Portfolio Starter Pack 🚀
-
 > Free, beginner-friendly portfolio templates designed for college students applying to internships.
 
 Portfolio Starter Pack is an open-source collection of professional portfolio templates built specifically for students entering the job market.
